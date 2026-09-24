@@ -1,5 +1,10 @@
 # Certifications
 
+Teste
 <sup> teste
-<sub> </teste>
-<ins> </teste>
+
+Teste
+<sub> teste
+
+Teste
+<ins> teste
