@@ -1,14 +1,14 @@
-### Curso "Learn Linux in 5 Days and Level Up Your Career"
+Curso Learn Linux in 5 Days and Level Up Your Career
 
 Neste curso foi desenvolvido os princípios do ambiente Linux e como navegar pelo CLI utilizando seus comandos. Sendo eles:
-  -> Deletar, copiar, mover e renomear arquivos utilizando ***cp, mv e rm***;
-  -> Comparar dois arquivos utilizando o ***diff***
-  -> Os comandos essenciais como ***ls, cat, cd, pwd, clear, man***
-  -> Remover e criar um diretório utilizando ***rmdir e mkdir*** respectivamente;
-  -> Editores de texto como ***nano, vi/vim e emacs***
-  -> O básico de shell script utilizando ***pipe (|), grep, egrep, head, tail, more e less***
-  -> Monitoramente dos processos em tempo real utilizando ***top, ps e pstree***
-  -> A utilização do ***Alias***
-  -> Trabalhar com diretórios e permissões utilizando o ***chmod***
-  -> Os princípios dos comandos ***cron, jobs, whoami, sudo e free***
+  -> Deletar, copiar, mover e renomear arquivos utilizando cp, mv e rm;
+  -> Comparar dois arquivos utilizando o diff;
+  -> Os comandos essenciais como ls, cat, cd, pwd, clear, man;
+  -> Remover e criar um diretório utilizando rmdir e mkdir respectivamente;
+  -> Editores de texto como nano, vi/vim e emacs;
+  -> O básico de shell script utilizando pipe (|), grep, egrep, head, tail, more e less;
+  -> Monitoramente dos processos em tempo real utilizando top, ps e pstree;
+  -> A utilização do Alias;
+  -> Trabalhar com diretórios e permissões utilizando o chmod;
+  -> Os princípios dos comandos cron, jobs, whoami, sudo e free;
 
